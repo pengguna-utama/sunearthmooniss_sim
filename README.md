@@ -47,6 +47,16 @@ Atau untuk build produksi:
 npm run build
 ```
 
+## Screenshot
+
+### Tampilan simulasi 1
+
+![Tampilan simulasi 1](Screenshot_453.png)
+
+### Tampilan simulasi 2
+
+![Tampilan simulasi 2](Screenshot_454.png)
+
 ## Bahasa dan teknologi
 
 - React
