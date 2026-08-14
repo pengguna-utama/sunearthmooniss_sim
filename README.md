@@ -23,7 +23,7 @@ Proyek ini bertujuan untuk membantu pengguna memahami:
 
 Simulasi ini menggunakan angka, rumus, dan parameter astronomi yang dibuat berdasarkan model bumi bulat yang umum dipakai dalam ilmu astronomi dan navigasi:
 
-- bentuk Bumi dianggap bulat
+- bentuk Bumi adalah bulat
 - parameter rotasi dan revolusi dipertimbangkan secara matematis
 - posisi objek dihitung berdasarkan waktu dan koordinat referensi
 - model pergerakan dibuat dengan pendekatan ilmiah yang tidak mengandalkan API online
