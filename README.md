@@ -53,7 +53,7 @@ npm run build
 
 ![Tampilan simulasi 1](Screenshot_453.png)
 
-### Tampilan simulasi 2
+### Tampilan simulasi 2 : Gerhana 12 Agustus 2026, umbra, penumbra, lokasi jatuh bayangan
 
 ![Tampilan simulasi 2](Screenshot_454.png)
 
